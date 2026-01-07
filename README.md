@@ -11,7 +11,7 @@ I’m Pruthviraj Shyamrao Tarode 🎓, a passionate Computer Science & Engineeri
 
 
 
-🛠️ Tech Interest Icons
+🛠️ Tech Interest
 
 🤖 Artificial Intelligence
 📊 Machine Learning
