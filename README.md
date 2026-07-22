@@ -79,5 +79,5 @@ I am a highly motivated **Computer Science & Engineering student** dedicated to 
 <br/>
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/pruthvirajtarode/count.svg" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=pruthvirajtarode&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </div>
