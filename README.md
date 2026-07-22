@@ -4,30 +4,44 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=1572B6&center=true&vCenter=true&width=800&lines=NPTEL+Pre-Doc+Fellow+%40+IIT+Madras;Computer+Science+%26+Engineering;AI%2FML+%26+Full-Stack+Developer;Building+Intelligent+Systems" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=1572B6&center=true&vCenter=true&width=800&lines=NPTEL+Pre-Doc+Fellow+%40+IIT+Madras;AI%2FML+%26+Full-Stack+Developer;Passionate+about+Intelligent+Systems;Computer+Science+%26+Engineering" alt="Typing SVG" />
   </a>
 </div>
 
-<br />
+<br/>
 
-## 💫 About Me
+<div align="center">
+  <p>
+    <a href="mailto:pruthvirajtarode456@gmail.com">
+      <img src="https://img.shields.io/badge/Hire_Me-Contact_via_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Hire Me" />
+    </a>
+    <a href="https://linkedin.com/in/pruthviraj-tarode-616ab1258">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+  </p>
+  <i>"Code is like humor. When you have to explain it, it's bad."</i>
+</div>
 
-I am a passionate **Computer Science & Engineering student** dedicated to building intelligent systems that solve real-world problems. My expertise lies at the intersection of **Artificial Intelligence (AI/ML)** and **Scalable Full-Stack Development**.
+<br/>
+
+## 💫 About Me & My Journey
+
+I am a highly motivated **Computer Science & Engineering student** dedicated to building intelligent, scalable solutions that solve real-world problems. My core expertise lies at the intersection of **Artificial Intelligence (AI/ML)** and **Modern Full-Stack Development**.
 
 > 🎓 **NPTEL Post Baccalaureate (Pre-Doc) Research Fellow @ IIT Madras**
-> I am thrilled to be working under the guidance of Prof. Ranjit Bauri on the research project: 
+> I am thrilled to be working under the guidance of Prof. Ranjit Bauri on the cutting-edge research project: 
 > **"AI-enabled Intelligence Framework for NDT Defect Detection."**
 
-### 🚀 Quick Highlights
-- 🔭 I’m currently building **Advanced Agentic AI Systems**.
-- 🌱 I’m currently learning **Advanced Deep Learning & Cloud Orchestration**.
-- 🤝 Deeply grateful to **MGM's College of Engineering, Nanded** for laying the foundation of my academic journey.
-- 👯 I’m looking to collaborate on **Open Source AI Projects**.
-- ⚡ **Fun fact:** I love turning complex logic into user-friendly experiences!
+### 🚀 What I Bring to the Table:
+- 🔭 **Innovating:** Currently building **Advanced Agentic AI Systems**.
+- 🌱 **Upskilling:** Mastering **Advanced Deep Learning & Cloud Orchestration**.
+- 🤝 **Collaborating:** Always open to contributing to **Open Source AI Projects**.
+- 🎓 **Gratitude:** Deeply thankful to **MGM's College of Engineering, Nanded** for laying the foundation of my academic journey.
+- ⚡ **Fun fact:** I love turning complex logic into seamless, user-friendly experiences!
 
 ---
 
-## 🛠 Tech Stack & Tools
+## 🛠 Tech Stack & Expertise
 
 ### 🌐 Frontend & UI
 <p>
@@ -56,33 +70,14 @@ I am a passionate **Computer Science & Engineering student** dedicated to buildi
 
 ---
 
-## 📊 GitHub Metrics
+## 📊 GitHub Contributions & Consistency
 
 <div align="center">
-  <a href="https://github.com/pruthvirajtarode">
-    <img src="https://github-readme-stats.vercel.app/api?username=pruthvirajtarode&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-  </a>
-  <br/><br/>
-  <a href="https://github.com/pruthvirajtarode">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=pruthvirajtarode&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
-  </a>
-</div>
-
----
-
-## 📫 Connect With Me
-
-<div align="center">
-  <a href="https://linkedin.com/in/pruthviraj-tarode-616ab1258">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:pruthvirajtarode@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pruthvirajtarode&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </div>
 
 <br/>
 
 <div align="center">
-  <i>"Code is like humor. When you have to explain it, it's bad."</i>
+  <img src="https://profile-counter.glitch.me/pruthvirajtarode/count.svg" alt="Profile Views" />
 </div>
