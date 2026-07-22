@@ -1,35 +1,32 @@
-<!-- Header Section -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=gradient&height=200&section=header&text=Pruthviraj%20Tarode&fontSize=70&fontAlignY=35&animation=twinkling&desc=NPTEL%20Pre-Doc%20Fellow%20@%20IIT%20Madras%20|%20AI/ML%20Enthusiast%20|%20Full-Stack%20Dev&descAlignY=60&descSize=20" width="100%" alt="Header" />
+  <h1>Hi there, I'm Pruthviraj Tarode! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px"></h1>
 </div>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=1572B6&center=true&vCenter=true&width=800&lines=Hi+there,+I'm+Pruthviraj!;NPTEL+Pre-Doctoral+Fellow+@+IIT+Madras;Computer+Science+%26+Engineering;Passionate+about+AI%2FML+%26+Web+Dev;Building+Intelligent+Systems" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=1572B6&center=true&vCenter=true&width=800&lines=NPTEL+Pre-Doc+Fellow+%40+IIT+Madras;Computer+Science+%26+Engineering;AI%2FML+%26+Full-Stack+Developer;Building+Intelligent+Systems" alt="Typing SVG" />
   </a>
 </div>
 
 <br />
 
-<!-- About Me Section -->
 ## 💫 About Me
 
-I am a passionate **Computer Science & Engineering student** and an **NPTEL Post Baccalaureate (Pre-Doc) Research Fellow at IIT Madras**. I am dedicated to building intelligent systems that solve real-world problems, with expertise at the intersection of **AI/ML** and **Scalable Full-Stack Development**.
+I am a passionate **Computer Science & Engineering student** dedicated to building intelligent systems that solve real-world problems. My expertise lies at the intersection of **Artificial Intelligence (AI/ML)** and **Scalable Full-Stack Development**.
 
-🎓 **Current Research Journey at IIT Madras:**
-- Working under the guidance of Prof. Ranjit Bauri in the Department of Metallurgical and Materials Engineering.
-- Research Project: **"AI-enabled Intelligence Framework for NDT Defect Detection."**
-- Deeply grateful to MGM's College of Engineering, Nanded, for laying the foundation of my academic journey.
+> 🎓 **NPTEL Post Baccalaureate (Pre-Doc) Research Fellow @ IIT Madras**
+> I am thrilled to be working under the guidance of Prof. Ranjit Bauri on the research project: 
+> **"AI-enabled Intelligence Framework for NDT Defect Detection."**
 
-🚀 **More About Me:**
-- 🔭 I’m currently working on **Advanced Agentic AI Systems**
-- 🌱 I’m currently learning **Advanced Deep Learning & Cloud Orchestration**
-- 👯 I’m looking to collaborate on **Open Source AI Projects**
-- ⚡ Fun fact: I love turning complex logic into user-friendly experiences!
+### 🚀 Quick Highlights
+- 🔭 I’m currently building **Advanced Agentic AI Systems**.
+- 🌱 I’m currently learning **Advanced Deep Learning & Cloud Orchestration**.
+- 🤝 Deeply grateful to **MGM's College of Engineering, Nanded** for laying the foundation of my academic journey.
+- 👯 I’m looking to collaborate on **Open Source AI Projects**.
+- ⚡ **Fun fact:** I love turning complex logic into user-friendly experiences!
 
 ---
 
-<!-- Tech Stack Section -->
 ## 🛠 Tech Stack & Tools
 
 ### 🌐 Frontend & UI
@@ -59,15 +56,13 @@ I am a passionate **Computer Science & Engineering student** and an **NPTEL Post
 
 ---
 
-<!-- GitHub Stats Section -->
 ## 📊 GitHub Metrics
 
 <div align="center">
   <a href="https://github.com/pruthvirajtarode">
     <img src="https://github-readme-stats.vercel.app/api?username=pruthvirajtarode&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
   </a>
-  <br/>
-  <br/>
+  <br/><br/>
   <a href="https://github.com/pruthvirajtarode">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=pruthvirajtarode&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
   </a>
@@ -75,7 +70,6 @@ I am a passionate **Computer Science & Engineering student** and an **NPTEL Post
 
 ---
 
-<!-- Connect With Me Section -->
 ## 📫 Connect With Me
 
 <div align="center">
