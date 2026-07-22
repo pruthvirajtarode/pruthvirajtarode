@@ -1,11 +1,11 @@
 <!-- Header Section -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=gradient&height=200&section=header&text=Pruthviraj%20Tarode&fontSize=70&fontAlignY=35&animation=twinkling&desc=CS%20Engineer%20|%20AI/ML%20Enthusiast%20|%20Full-Stack%20Dev&descAlignY=60&descSize=20" width="100%" />
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=gradient&height=200&section=header&text=Pruthviraj%20Tarode&fontSize=70&fontAlignY=35&animation=twinkling&desc=NPTEL%20Pre-Doc%20Fellow%20@%20IIT%20Madras%20|%20AI/ML%20Enthusiast%20|%20Full-Stack%20Dev&descAlignY=60&descSize=20" width="100%" alt="Header" />
 </div>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=1572B6&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Pruthviraj!;Computer+Science+%26+Engineering+Student;Passionate+about+AI%2FML+%26+Web+Dev;Building+Intelligent+Systems" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=1572B6&center=true&vCenter=true&width=800&lines=Hi+there,+I'm+Pruthviraj!;NPTEL+Pre-Doctoral+Fellow+@+IIT+Madras;Computer+Science+%26+Engineering;Passionate+about+AI%2FML+%26+Web+Dev;Building+Intelligent+Systems" alt="Typing SVG" />
   </a>
 </div>
 
@@ -14,8 +14,14 @@
 <!-- About Me Section -->
 ## 💫 About Me
 
-I am a passionate **Computer Science & Engineering student** dedicated to building intelligent systems that solve real-world problems. My expertise lies at the intersection of **AI/ML** and **Scalable Full-Stack Development**.
+I am a passionate **Computer Science & Engineering student** and an **NPTEL Post Baccalaureate (Pre-Doc) Research Fellow at IIT Madras**. I am dedicated to building intelligent systems that solve real-world problems, with expertise at the intersection of **AI/ML** and **Scalable Full-Stack Development**.
 
+🎓 **Current Research Journey at IIT Madras:**
+- Working under the guidance of Prof. Ranjit Bauri in the Department of Metallurgical and Materials Engineering.
+- Research Project: **"AI-enabled Intelligence Framework for NDT Defect Detection."**
+- Deeply grateful to MGM's College of Engineering, Nanded, for laying the foundation of my academic journey.
+
+🚀 **More About Me:**
 - 🔭 I’m currently working on **Advanced Agentic AI Systems**
 - 🌱 I’m currently learning **Advanced Deep Learning & Cloud Orchestration**
 - 👯 I’m looking to collaborate on **Open Source AI Projects**
@@ -76,7 +82,7 @@ I am a passionate **Computer Science & Engineering student** dedicated to buildi
   <a href="https://linkedin.com/in/pruthviraj-tarode-616ab1258">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:your.email@gmail.com">
+  <a href="mailto:pruthvirajtarode@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </div>
