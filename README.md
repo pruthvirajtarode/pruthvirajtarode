@@ -1,5 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=1572B6&height=250&section=header&text=Hi%20there,%20I'm%20Pruthviraj!&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=ffffff" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1572B6&height=200&section=header&text=Welcome%20to%20my%20Profile!&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=ffffff" alt="Header" />
+</div>
+
+<div align="center">
+  <h1>Hi there, I'm Pruthviraj Tarode! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px"></h1>
 </div>
 
 <div align="center">
@@ -12,7 +16,7 @@
 
 <div align="center">
   <a href="mailto:pruthvirajtarode456@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-Hire_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://linkedin.com/in/pruthviraj-tarode-616ab1258">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -25,33 +29,33 @@
 <br/>
 
 <div align="center">
-  <i>"Code is like humor. When you have to explain it, it's bad." 😆✨</i>
+  <i>"Code is like humor. When you have to explain it, it's bad." <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Winking%20Face%20with%20Tongue.png" alt="Winking Face" width="20" /></i>
 </div>
 
 <br/>
 
-## 💫 About Me & My Journey 🏃‍♂️💨
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Star-Struck.png" alt="Star-Struck" width="30" /> About Me & My Journey
 
 <img align="right" alt="Coding GIF" width="300" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true">
 
-I am a highly motivated **Computer Science & Engineering student** 👨‍🎓 dedicated to building intelligent, scalable solutions that solve real-world problems. My core expertise lies at the intersection of **Artificial Intelligence (AI/ML)** 🤖 and **Modern Full-Stack Development** 💻.
+I am a highly motivated **Computer Science & Engineering student** <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Student.png" alt="Student" width="20" /> dedicated to building intelligent, scalable solutions that solve real-world problems. My core expertise lies at the intersection of **Artificial Intelligence (AI/ML)** <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Robot" width="20" /> and **Modern Full-Stack Development** <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="20" />.
 
 > 🎓 **NPTEL Post Baccalaureate (Pre-Doc) Research Fellow @ IIT Madras** 🏫
 > 
 > I am thrilled to be working under the guidance of **Prof. Ranjit Bauri** on the cutting-edge research project: 
-> *"AI-enabled Intelligence Framework for NDT Defect Detection."* 🔬🌟
+> *"AI-enabled Intelligence Framework for NDT Defect Detection."* <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Microscope.png" alt="Microscope" width="20" />
 
-### 🚀 What I Bring to the Table
-- 🔭 **Innovating:** Currently building **Advanced Agentic AI Systems** 🧠🤖.
-- 🌱 **Upskilling:** Mastering **Advanced Deep Learning & Cloud Orchestration** ☁️📈.
-- 🤝 **Collaborating:** Always open to contributing to **Open Source AI Projects** 🌍✨.
-- ⚡ **Fun fact:** I love turning complex logic into seamless, user-friendly experiences! 🪄🎨
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" /> What I Bring to the Table
+- 🔭 **Innovating:** Currently building **Advanced Agentic AI Systems**.
+- 🌱 **Upskilling:** Mastering **Advanced Deep Learning & Cloud Orchestration**.
+- 🤝 **Collaborating:** Always open to contributing to **Open Source AI Projects**.
+- ⚡ **Fun fact:** I love turning complex logic into seamless, user-friendly experiences!
 
 <br/>
 
 ---
 
-## 🛠️ Tech Stack & Expertise 💻🔥
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="Desktop" width="30" /> Tech Stack & Expertise
 
 <div align="center">
   
@@ -80,7 +84,7 @@ I am a highly motivated **Computer Science & Engineering student** 👨‍🎓 d
 
 ---
 
-## 📈 GitHub Stats 🏆🔥
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Fire.png" alt="Fire" width="30" /> GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pruthvirajtarode&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
