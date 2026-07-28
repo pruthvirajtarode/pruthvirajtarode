@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <h1>Hi there, I'm Pruthviraj Tarode! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px"></h1>
+  <h1>Hi there, I'm Pruthviraj Tarode! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px"> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Face%20with%20Smiling%20Eyes.png" alt="Smiley" width="35px"></h1>
 </div>
 
 <div align="center">
@@ -79,6 +79,16 @@ I am a highly motivated **Computer Science & Engineering student** <img src="htt
 <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch" />
 <img src="https://img.shields.io/badge/OpenAI-%23412991.svg?style=for-the-badge&logo=OpenAI&logoColor=white" alt="OpenAI" />
 <img src="https://img.shields.io/badge/Pinecone-%23000000.svg?style=for-the-badge&logo=Pinecone&logoColor=white" alt="Pinecone" />
+
+<br/><br/>
+**Tools & Platforms** 🛠️🚀<br/>
+<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+<img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+<img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+<img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
 
 </div>
 
