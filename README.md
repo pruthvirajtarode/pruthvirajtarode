@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=1572B6&height=200&section=header&text=Welcome%20to%20my%20Profile!&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=ffffff" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1572B6&height=200&section=header&text=Welcome%20to%20my%20Profile!&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=ffffff" alt="Header" width="100%" />
 </div>
 
 <div align="center">
@@ -8,7 +8,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=1572B6&center=true&vCenter=true&width=800&lines=NPTEL+Pre-Doc+Fellow+%40+IIT+Madras;AI%2FML+%26+Full-Stack+Developer;Passionate+about+Intelligent+Systems;Computer+Science+%26+Engineering" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=1572B6&center=true&vCenter=true&width=800&lines=NPTEL+Pre-Doc+Fellow+%40+IIT+Madras;AI%2FML+%26+Full-Stack+Developer;Passionate+about+Intelligent+Systems;Computer+Science+%26+Engineering" alt="Typing SVG" width="100%" />
   </a>
 </div>
 
@@ -36,7 +36,10 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Star-Struck.png" alt="Star-Struck" width="30" /> About Me & My Journey
 
-<img align="right" alt="Coding GIF" width="300" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true">
+<div align="center">
+  <img alt="Coding GIF" width="300" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true">
+</div>
+<br/>
 
 I am a highly motivated **Computer Science & Engineering student** <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Student.png" alt="Student" width="20" /> dedicated to building intelligent, scalable solutions that solve real-world problems. My core expertise lies at the intersection of **Artificial Intelligence (AI/ML)** <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Robot" width="20" /> and **Modern Full-Stack Development** <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="20" />.
 
@@ -119,5 +122,5 @@ I am a highly motivated **Computer Science & Engineering student** <img src="htt
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=1572B6&height=100&section=footer" alt="Footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1572B6&height=100&section=footer" alt="Footer" width="100%" />
 </div>
