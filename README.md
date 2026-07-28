@@ -97,7 +97,7 @@ I am a highly motivated **Computer Science & Engineering student** <img src="htt
 ## 🔥 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pruthvirajtarode&show_icons=true&theme=tokyonight&hide_border=true&v=1" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pruthvirajtarode&theme=tokyonight" alt="GitHub Stats" />
 </div>
 
 <br/>
@@ -109,7 +109,7 @@ I am a highly motivated **Computer Science & Engineering student** <img src="htt
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pruthvirajtarode&layout=compact&theme=tokyonight&hide_border=true&v=1" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pruthvirajtarode&theme=tokyonight" alt="Top Languages" />
 </div>
 
 ---
